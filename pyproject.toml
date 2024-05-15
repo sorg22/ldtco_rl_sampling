@@ -1,0 +1,14 @@
+[project]
+name = "rl_sampling"
+version = "0.0.0"
+authors = [
+  { name="sungwon kim", email="sungwon.kim@intel.com" },
+]
+description = "initial package for reinforcement learning based sampling"
+readme = "README.md"
+requires-python = ">=3.8.2"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
